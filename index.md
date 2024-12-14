@@ -2,4 +2,4 @@
 title: From Pins to Keys
 ---
 
-After being an acupuncturist for almost 18 years and a community acupuncturist running their own shop for almost 16, I'm transitioning into cybersecurity. Just like I contributed to my local community, I'm hoping this starts my contribution to the cyber-community.
+As I learn I'm seeing parallels and divergences between what I've done and what I'm doing and want to make note of them. Plus I'll be dropping things here that I wish I knew when I started learning both acupuncture + herbs and cybersecurity.

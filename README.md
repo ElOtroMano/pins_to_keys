@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# From Pins To Keys
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_This is how I'm pushing myself to learn how to use git and github...and put my thoughts out there_
 
 </header>
 
@@ -18,8 +18,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
-
+## Overview
+After 15+ years as a community acupuncturist I'm moving into cybersecurity. As I learn I'm seeing parallels and divergences between what I've done and what I'm doing and want to make note of them. Plus I'll be dropping things here that I wish I knew when I start learning both acupuncture+herbs and cybersecurity.
+<!--
 _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
@@ -48,6 +49,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
+<!--
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)

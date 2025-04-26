@@ -1,11 +1,9 @@
 #remote_theme: cotes2020/jekyll-theme-chirpy
 #remote_theme: pages-themes/time-machine@v0.2.0
+#remote_theme: pages-themes/merlot@v0.2.0
 #plugins:
 #- jekyll-remote-theme
-#theme: minima
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minima
 title: From Pins To Keys
 author: ElOtroMano
 description: Starting my contributions to cybersecurity after 15+ years as a community acupuncturist

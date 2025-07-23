@@ -1,0 +1,18 @@
+---
+title: "Cybersecurity in Healthcare"
+date: 2025-07-22
+---
+
+I got lucky having found these symposiums by CS2AI in time to catch the one on manufacturing in April and the one on healthcare this May. While the overarching idea I caught from April's session on manufacturing was about the communication challenges between IT and OT, this one felt like it had 2: the diversity of technologies in healthcare settings and the highly interdependent nature of healthcare systems.
+
+
+Right out of the gate Justin Searle pointed to 2 ideas that affected patient care: how cascading effects impact the delivery of patient care and how the number and nature of healthcare devices and infrastructure increase the attack surface. His first example set the stage for the system-level thinking he was pointing out: the cascading effect that a loss of AC has on patient care resulting from the loss of cooling to servers that provide the current and archived data needed for adequate patient care. From there it just got more interconnected when he started pointing out the cascading effects on healthcare from regional causes. And uff, the difficulties that come from an extended outage of any core services (water, electricity, fuel systems, transportation) are frightening. 
+
+
+Billy Rios and then Lee Kim offered two perspectives on healthcare OT from opposite ends of the spectrum. Billy took us through a breakdown of the vulnerabilities in a single glucose monitoring device, pointing out vulnerable access points to the gathering, transmission, and storage of patient data through the device. Lee Kim took a wider view through the [2024 HIMSS](https://www.himss.org/resources/himss-healthcare-cybersecurity-survey/) survey, taking us through the different findings. Lee took some time pointing to the evergreen need for the expansion of cybersecurity budgets. She also drew an interesting parallel between maritime and healthcare cybersecurity: with foreign entities owning different parts of infrastructure (partial owners of ports and international device manufacturing), the U.S. has reduced visibility into those environments to secure them.
+
+
+Like the last symposium, the highlight for me was the panel with Derek Harp (CS2AI), David Nathans (Siemens Healthineers), Hugo Lai (Temple University Health System, whose connection dropped before the panel ended), and Phil Englert (Health-ISAC). The single comment that really laid out the workload that healthcare OT operates under was by David who stated that an average hospital will have ~90,000 devices from 300-400 manufacturers. That diversity of assets is difficult for me to grasp having been a small business owner with 8 devices with as many manufacturers. The other bit of info that helped clarify my understanding of a healthcare OT environment and looped the symposium back to Justin's opening presentation was David's explanation that even if patching a major device went perfectly, that machine could be out of rotation for 4 hours. And that 4 hours meant that the downstream impacts on patient care could lead to delayed testing/treatment since patients would need to be rescheduled (sometimes months down the road) and operational management of the devices would need to be organized since a hospital does not have downtime.
+
+
+There was so much more info across the presentations than I could cover here. It was a real revelation of the complexities of healthcare OT, and frankly a little frightening to think of the impacts on people who are at vulnerable points in their lives. But damn if it doesn't make me want to enter healthcare OT more!
